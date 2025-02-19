@@ -6,6 +6,7 @@ grade_urls = [
     "/restaurant/所内食堂/", "/restaurant/融科-计算所沿线/",
     "/restaurant/中关村5号/", "/restaurant/融科以及融科西侧沿线/",
     "/restaurant/青年公寓附近/", "/restaurant/其他附近餐厅/"
+    "/restaurant/领展/","/restaurant/知春路/"
 ]
 grade_dirs = ["." + x for x in grade_urls]
 
